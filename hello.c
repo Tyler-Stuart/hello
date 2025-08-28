@@ -5,7 +5,7 @@
  *          theangryghost@protonmail.com.
  * Date: 2026/08/28
  *
- * First hack collaboration
+ * Simple program to print our names and majors
  *
  */
 
