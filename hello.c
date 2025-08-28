@@ -1,10 +1,11 @@
 /**
  * Authors: Tyler Stuart
- *         tstuart6@huskers.unl.edu
+ *          tstuart6@huskers.unl.edu
  *          Casper Turek
- *         theangryghost@protonmail.com.
+ *          theangryghost@protonmail.com.
  * Date: 2026/08/28
  *
+ * First hack collaboration
  *
  */
 
