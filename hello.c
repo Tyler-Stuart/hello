@@ -1,6 +1,8 @@
 /**
- * Author: Tyler Stuart
+ * Authors: Tyler Stuart
  *         tstuart6@huskers.unl.edu
+ *          Casper Turek
+ *         theangryghost@protonmail.com.
  * Date: 2026/08/28
  *
  *
